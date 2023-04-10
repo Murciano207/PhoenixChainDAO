@@ -1,4 +1,4 @@
-# Dao widget -  Governance and proposals for your crypto token
+# Phoenix Chain DAO -  Governance and proposals for Phoenix Chain token
 
 
 
